@@ -10,8 +10,7 @@ To add this file to your system you will need to follow the following steps
     press "shift + zz" to save and close the file
     now you must set the permissions on the file to execute
     "chmod +x newuser.sh"
-    
-Now to execut this script you will type "./newuser.sh"
+    "./newuser.sh" will now execute the script
 
 
 ***For this document the commands are inside the "" you will not need the "" for the commands***
