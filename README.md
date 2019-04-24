@@ -1,5 +1,7 @@
 # bash
 Bash Scripts
+Add a new user
+
 newuser.sh is for adding new users to ubuntu.
 To add this file to your system you will need to follow the following steps
     
