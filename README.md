@@ -1,9 +1,13 @@
 # bash
 Bash Scripts
+
+newuser.sh
 Add a new user
 
+What does this script do? The quick answer is add a user and their ssh key to the local system. Once this is done the user will be able to login to the system presumably vi ssh using thier private key
+
 newuser.sh is for adding new users to ubuntu.
-To add this file to your system you will need to follow the following steps
+To add this script to the system you will be adding users to follow the following steps.
     
     "vi newuser.sh"
     "i" for insert
