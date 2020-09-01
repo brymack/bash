@@ -20,3 +20,4 @@ chmod 600 "$sshkeypath"
 echo "$sshkey" > "$sshkeypath"
 chown $username:$username "$sshkeypath"
 chown $username:$username /home/$username/.ssh
+usermod -aG sudo $username
