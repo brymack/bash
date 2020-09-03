@@ -1,7 +1,5 @@
 #!/bin/bash
 #Add user and prompt for key
-#!/bin/bash
-#Add user and prompt for key
 
 echo "Adding a user..."
 echo "Username?"
